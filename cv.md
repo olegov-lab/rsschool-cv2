@@ -30,7 +30,7 @@ void main (void)
 
 ## Experience
 
-Himseld
+Himself
 
 ## Education
 
