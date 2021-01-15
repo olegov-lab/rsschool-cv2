@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 1.6rem;
+}
+
+.box {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+li {
+  font-style: italic;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.betwen {
+  line-height: 24px;
+}
+
+p {
+  font-style: italic;
+}
