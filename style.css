@@ -181,7 +181,7 @@ p {
 }
 
 .logo {
-  background-image: url(/Project/JS/rsschool-cv/rs_school_js.svg);
+  background-image: url(rs_school_js.svg);
   display: inline-block;
   width: 100px;
   height: 100px;
