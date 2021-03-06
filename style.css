@@ -1,0 +1,188 @@
+/* сброс стилей браузера */
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1.2;
+}
+ol {
+  padding-left: 1.4em;
+  list-style: decimal;
+}
+ul {
+  padding-left: 1.4em;
+  list-style: circle;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/* конец кода сброса стилей браузера */
+
+html {
+  font-size: 10px;
+}
+
+body {
+  margin: 0;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 1.8rem;
+}
+
+h1 {
+  font-size: 2rem;
+  line-height: 2;
+}
+
+h2 {
+  line-height: 2;
+}
+
+img {
+  border-radius: 50px;
+}
+
+main {
+  background: #dad8d9;
+
+  padding-top: 50px;
+}
+
+footer {
+  background: #dad8d9;
+  box-shadow: 0 0 8px 2px rgba(0 0 0 / 50%);
+}
+
+.footer__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.wrapper {
+  max-width: 700px;
+  margin: auto;
+}
+
+.header {
+  background: #dad8d9;
+}
+
+.header__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+li {
+  font-style: italic;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-style: italic;
+}
+
+.logo {
+  background-image: url(rs_school_js.svg);
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+}
